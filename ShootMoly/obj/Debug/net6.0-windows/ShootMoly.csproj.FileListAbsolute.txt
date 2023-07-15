@@ -1,0 +1,48 @@
+C:\Users\Admin\Desktop\ShootMoly\ShootMoly\bin\Debug\net6.0-windows\ShootMoly.exe
+C:\Users\Admin\Desktop\ShootMoly\ShootMoly\bin\Debug\net6.0-windows\ShootMoly.deps.json
+C:\Users\Admin\Desktop\ShootMoly\ShootMoly\bin\Debug\net6.0-windows\ShootMoly.runtimeconfig.json
+C:\Users\Admin\Desktop\ShootMoly\ShootMoly\bin\Debug\net6.0-windows\ShootMoly.dll
+C:\Users\Admin\Desktop\ShootMoly\ShootMoly\bin\Debug\net6.0-windows\ShootMoly.pdb
+C:\Users\Admin\Desktop\ShootMoly\ShootMoly\obj\Debug\net6.0-windows\ShootMoly.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\ShootMoly\ShootMoly\obj\Debug\net6.0-windows\ShootMoly.FrmMain.resources
+C:\Users\Admin\Desktop\ShootMoly\ShootMoly\obj\Debug\net6.0-windows\ShootMoly.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\ShootMoly\ShootMoly\obj\Debug\net6.0-windows\ShootMoly.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\ShootMoly\ShootMoly\obj\Debug\net6.0-windows\ShootMoly.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\ShootMoly\ShootMoly\obj\Debug\net6.0-windows\ShootMoly.AssemblyInfo.cs
+C:\Users\Admin\Desktop\ShootMoly\ShootMoly\obj\Debug\net6.0-windows\ShootMoly.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\ShootMoly\ShootMoly\obj\Debug\net6.0-windows\ShootMoly.dll
+C:\Users\Admin\Desktop\ShootMoly\ShootMoly\obj\Debug\net6.0-windows\refint\ShootMoly.dll
+C:\Users\Admin\Desktop\ShootMoly\ShootMoly\obj\Debug\net6.0-windows\ShootMoly.pdb
+C:\Users\Admin\Desktop\ShootMoly\ShootMoly\obj\Debug\net6.0-windows\ShootMoly.genruntimeconfig.cache
+C:\Users\Admin\Desktop\ShootMoly\ShootMoly\obj\Debug\net6.0-windows\ref\ShootMoly.dll
+C:\Users\Admin\Desktop\ShootMoly\ShootMoly\obj\Debug\net6.0-windows\ShootMoly.Properties.Resources.resources
+C:\Users\Admin\Desktop\ShootMoly\ShootMoly\obj\Debug\net6.0-windows\ShootMoly.FrmIntroduce.resources
+C:\Users\Admin\Desktop\ShootMoly\ShootMoly\obj\Debug\net6.0-windows\ShootMoly.FrmPlayEasy.resources
+C:\Users\Admin\Desktop\ShootMoly\ShootMoly\obj\Debug\net6.0-windows\ShootMoly.FrmLevel.resources
+C:\Users\Admin\Desktop\ShootMoly\ShootMoly\obj\Debug\net6.0-windows\ShootMoly.FrmPlayMedium.resources
+C:\Users\Admin\Desktop\ShootMoly\ShootMoly\obj\Debug\net6.0-windows\ShootMoly.FrmPlayHard.resources
+C:\Users\Admin\Desktop\ShootMoly\ShootMoly\obj\Debug\net6.0-windows\ShootMoly.FrmIntructioncs.resources
+D:\HKVI\Lập trình giao diện\GUI\BaiTapLon\ShootMoly\ShootMoly\bin\Debug\net6.0-windows\ShootMoly.exe
+D:\HKVI\Lập trình giao diện\GUI\BaiTapLon\ShootMoly\ShootMoly\bin\Debug\net6.0-windows\ShootMoly.deps.json
+D:\HKVI\Lập trình giao diện\GUI\BaiTapLon\ShootMoly\ShootMoly\bin\Debug\net6.0-windows\ShootMoly.runtimeconfig.json
+D:\HKVI\Lập trình giao diện\GUI\BaiTapLon\ShootMoly\ShootMoly\bin\Debug\net6.0-windows\ShootMoly.dll
+D:\HKVI\Lập trình giao diện\GUI\BaiTapLon\ShootMoly\ShootMoly\bin\Debug\net6.0-windows\ShootMoly.pdb
+D:\HKVI\Lập trình giao diện\GUI\BaiTapLon\ShootMoly\ShootMoly\obj\Debug\net6.0-windows\ShootMoly.csproj.AssemblyReference.cache
+D:\HKVI\Lập trình giao diện\GUI\BaiTapLon\ShootMoly\ShootMoly\obj\Debug\net6.0-windows\ShootMoly.FrmMain.resources
+D:\HKVI\Lập trình giao diện\GUI\BaiTapLon\ShootMoly\ShootMoly\obj\Debug\net6.0-windows\ShootMoly.FrmIntroduce.resources
+D:\HKVI\Lập trình giao diện\GUI\BaiTapLon\ShootMoly\ShootMoly\obj\Debug\net6.0-windows\ShootMoly.FrmIntructioncs.resources
+D:\HKVI\Lập trình giao diện\GUI\BaiTapLon\ShootMoly\ShootMoly\obj\Debug\net6.0-windows\ShootMoly.FrmLevel.resources
+D:\HKVI\Lập trình giao diện\GUI\BaiTapLon\ShootMoly\ShootMoly\obj\Debug\net6.0-windows\ShootMoly.FrmPlayEasy.resources
+D:\HKVI\Lập trình giao diện\GUI\BaiTapLon\ShootMoly\ShootMoly\obj\Debug\net6.0-windows\ShootMoly.FrmPlayHard.resources
+D:\HKVI\Lập trình giao diện\GUI\BaiTapLon\ShootMoly\ShootMoly\obj\Debug\net6.0-windows\ShootMoly.FrmPlayMedium.resources
+D:\HKVI\Lập trình giao diện\GUI\BaiTapLon\ShootMoly\ShootMoly\obj\Debug\net6.0-windows\ShootMoly.Properties.Resources.resources
+D:\HKVI\Lập trình giao diện\GUI\BaiTapLon\ShootMoly\ShootMoly\obj\Debug\net6.0-windows\ShootMoly.csproj.GenerateResource.cache
+D:\HKVI\Lập trình giao diện\GUI\BaiTapLon\ShootMoly\ShootMoly\obj\Debug\net6.0-windows\ShootMoly.GeneratedMSBuildEditorConfig.editorconfig
+D:\HKVI\Lập trình giao diện\GUI\BaiTapLon\ShootMoly\ShootMoly\obj\Debug\net6.0-windows\ShootMoly.AssemblyInfoInputs.cache
+D:\HKVI\Lập trình giao diện\GUI\BaiTapLon\ShootMoly\ShootMoly\obj\Debug\net6.0-windows\ShootMoly.AssemblyInfo.cs
+D:\HKVI\Lập trình giao diện\GUI\BaiTapLon\ShootMoly\ShootMoly\obj\Debug\net6.0-windows\ShootMoly.csproj.CoreCompileInputs.cache
+D:\HKVI\Lập trình giao diện\GUI\BaiTapLon\ShootMoly\ShootMoly\obj\Debug\net6.0-windows\ShootMoly.dll
+D:\HKVI\Lập trình giao diện\GUI\BaiTapLon\ShootMoly\ShootMoly\obj\Debug\net6.0-windows\refint\ShootMoly.dll
+D:\HKVI\Lập trình giao diện\GUI\BaiTapLon\ShootMoly\ShootMoly\obj\Debug\net6.0-windows\ShootMoly.pdb
+D:\HKVI\Lập trình giao diện\GUI\BaiTapLon\ShootMoly\ShootMoly\obj\Debug\net6.0-windows\ShootMoly.genruntimeconfig.cache
+D:\HKVI\Lập trình giao diện\GUI\BaiTapLon\ShootMoly\ShootMoly\obj\Debug\net6.0-windows\ref\ShootMoly.dll
